@@ -23,5 +23,5 @@
 - **CTF Platforms:** Hack The Box, TryHackMe  
 
 ## 📫 Get in Touch  
-- 💼 www.linkedin.com/in/sarthak-suman(#)  
-- ✉️ sumansarthak47@gmail.com(#)  
+- 💼 www.linkedin.com/in/sarthak-suman
+- ✉️ sumansarthak47@gmail.com 
