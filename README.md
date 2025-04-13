@@ -8,9 +8,9 @@
 - 🖥️ Developing tools to enhance **security monitoring and phishing detection**  
 - 📚 Constantly learning and exploring **new attack vectors and defense mechanisms**  
 
-## 🛠️ What I'm Working On  
+## 🛠️ What I Worked On
 - **Phishing Link Scanner** – Improving its CLI version, adding **API-based scanning, automated bulk scanning, GUI (Tkinter/PyQt), report generation, and Docker support**  
-- **Notification Monitor & Alert System** – Using **ADB to track and analyze mobile alerts**  
+- **Malware Detection Sandbox** – Using **Virustotal API to track a file if it has malware or not**  
 
 ## 📜 Certifications & Training  
 - ✅ **Cisco Cybersecurity Course**  
